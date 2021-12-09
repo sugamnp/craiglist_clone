@@ -35,9 +35,7 @@ clyent==1.2.1
 coala-utils==0.5.1
 colorama==0.4.3
 conda==4.3.16
-conda-build==3.18.11
-conda-package-handling==1.6.0
-conda-verify==3.4.2
+conda-build==2.1.5
 contextlib2==0.6.0.post1
 cryptography==2.8
 cycler==0.10.0
@@ -58,7 +56,6 @@ et-xmlfile==1.0.1
 fastcache==1.1.0
 filelock==3.0.12
 flake8==3.7.9
-Flask==1.1.1
 fsspec==0.6.2
 future==0.18.2
 gevent==1.4.0
