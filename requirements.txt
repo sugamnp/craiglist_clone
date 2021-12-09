@@ -201,7 +201,6 @@ spyder==4.0.1
 spyder-kernels==1.8.1
 SQLAlchemy==1.3.13
 sqlparse==0.4.2
-statsmodels==0.11.0
 sympy==1.5.1
 tables==3.6.1
 tblib==1.6.0
