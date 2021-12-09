@@ -179,7 +179,6 @@ requests-oauthlib==1.3.0
 rope==0.16.0
 Rtree==0.9.7
 ruamel_yaml==0.15.87
-scipy==1.4.1
 seaborn==0.10.0
 Send2Trash==1.5.0
 simplegeneric==0.8.1
